@@ -1,1 +1,4 @@
 .DS_Store
+
+typing_app/*.class
+typing_app/utility/*.class
