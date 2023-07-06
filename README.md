@@ -56,4 +56,4 @@ java typing_app.MainMenu
 
 ---
 
-<img src="./figures/typing_app_demo.png" width=75%>
+<img src="./typing_app/figures/typing_app_demo.png" width=75%>
